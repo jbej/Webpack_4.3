@@ -1,0 +1,25 @@
+{
+  "name": "Webpack_4.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbej/Webpack_4.3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbej/Webpack_4.3/issues"
+  },
+  "homepage": "https://github.com/jbej/Webpack_4.3#readme"
+}
